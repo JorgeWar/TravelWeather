@@ -1,0 +1,32 @@
+{
+  "source": "/Users/jorge/Desktop/testapp/testapp/AddTripView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Trip Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trip Description",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trip Start Date",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 28
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/jorge/Desktop/testapp/testapp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Itinerary",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dates",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calendar",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Map",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 33
+        }
+      }
+    ]
+  },
+  "version": 1
+}

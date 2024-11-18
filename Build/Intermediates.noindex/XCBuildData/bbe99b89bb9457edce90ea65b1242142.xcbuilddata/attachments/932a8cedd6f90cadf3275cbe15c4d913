@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testapp-master.dia",
+    "emit-module-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testapp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testapp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testapp-master.swiftdeps"
+  },
+  "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/AddPlaceView.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddPlaceView~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/AddTripView.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/AddTripView~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/ContentView.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/DateListView.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DateListView~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/DatesView.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/DatesView~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/ItineraryView.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/ItineraryView~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/Place.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/Place~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/WeatherData.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/WeatherData~partial.swiftmodule"
+  },
+  "/Users/jorge/Desktop/testapp/testapp/testappApp.swift" : {
+    "const-values" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.swiftconstvalues",
+    "dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.d",
+    "diagnostics" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.dia",
+    "index-unit-output-path" : "/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.o",
+    "llvm-bc" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.bc",
+    "object" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.o",
+    "swift-dependencies" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp.swiftdeps",
+    "swiftmodule" : "/Users/jorge/Desktop/testapp/Build/Intermediates.noindex/testapp.build/Debug-iphonesimulator/testapp.build/Objects-normal/arm64/testappApp~partial.swiftmodule"
+  }
+}
